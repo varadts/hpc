@@ -47,7 +47,7 @@ int main() {
     double learning_rate = 0.0009;
     int epochs = 1000;
     
-    // Training loop
+    // Training loop1
     for (int epoch = 0; epoch < epochs; epoch++) {
         vector<double> y_pred;
         double gradient_hidden = 0.0;
